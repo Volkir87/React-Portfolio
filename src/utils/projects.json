@@ -1,0 +1,17 @@
+{
+    "allProjects": [
+        {
+            "name": "Weather Dashboard",
+            "desc": "A simple dashboard to get the weather info for various cities in the world",
+            "link_git": "https://volkir87.github.io/Weather-Dashboard/",
+            "link_app": "https://github.com/Volkir87/Weather-Dashboard",
+            "img": "./assets/images/Weather-Dashboard-screenshot_sq.png"
+        },
+        {
+            "name": "Nounify",
+            "desc": "An app to turn a simple text into a picture book",
+            "link_git": "",
+            "link_app": ""
+        }
+    ]
+}
