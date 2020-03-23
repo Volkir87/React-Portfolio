@@ -1,6 +1,6 @@
 //import fs from 'fs';
 
-const fs = require('fs');
+//const fs = require('fs');
 
 export default {
     getAll: async function(){

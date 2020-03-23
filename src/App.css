@@ -164,7 +164,9 @@ html { scroll-behavior: smooth; }
     color: #0f2a36;
     font-family: 'Open Sans', Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
-    text-align: center;
+    text-align: left;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 
