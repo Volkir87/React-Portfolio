@@ -259,15 +259,27 @@ html { scroll-behavior: smooth; }
     background-color: #edf6ff;
     border: 5px solid #cce4fb;
     box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     max-width: 50%;
     margin: auto;
     padding: 1rem;
     border-radius: 1rem;
 }
 
+.email {
+    font-family: 'Open Sans', Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 1000;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
 .contact_buttons {
     display: flex;
     justify-content: space-around;
+    width: 90%;
 }
 
 .cont_but {

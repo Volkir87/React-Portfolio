@@ -11,21 +11,21 @@ export default {
             "allProjects": [
                 {
                     "name": "Weather Dashboard",
-                    "desc": "A simple dashboard to get the weather info for various cities in the world",
+                    "desc": "A simple dashboard to get the weather info for various cities in the world, built with jQuery and Bootstrap",
                     "link_git": "https://github.com/Volkir87/Weather-Dashboard",
                     "link_app": "https://volkir87.github.io/Weather-Dashboard/",
                     "img": "./assets/images/Weather-Dashboard-screenshot_sq.png"
                 },
                 {
                     "name": "Day Planner",
-                    "desc": "A simple planner app to track your daily routines",
+                    "desc": "A simple planner app to track your daily routines, built with jQuery",
                     "link_git": "https://github.com/Volkir87/Day-Planner",
                     "link_app": "https://volkir87.github.io/Day-Planner/",
                     "img": "./assets/images/Day_Planner_Screenshot_sq.png"
                 },
                 {
                     "name": "Nounify",
-                    "desc": "A fun project making any text more alive by searching images for various words in the text",
+                    "desc": "A fun project making any text more alive by searching images for various words in the text, built with jQuery",
                     "link_git": "https://github.com/ninjagirl2018/Nounify",
                     "link_app": "https://ninjagirl2018.github.io/Nounify/",
                     "img": "./assets/images/Nounify_screenshot_sq.png"
@@ -46,7 +46,7 @@ export default {
                 },
                 {
                     "name": "BuckEATlist",
-                    "desc": "An application to save the restaurants you ever wanted to visit in the bucketlist, so that you never forget where you wanted to go",
+                    "desc": "An application to save the restaurants you ever wanted to visit in the bucketlist, so that you never forget where you wanted to go. Built with Express Handlebars",
                     "link_git": "https://github.com/davidgeht/BuckEATlist",
                     "link_app": "https://buckeatlist.herokuapp.com",
                     "img": "./assets/images/Buckeatlist_screenshot.png"
